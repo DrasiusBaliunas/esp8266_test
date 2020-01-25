@@ -3,7 +3,7 @@
 // Globals
 #define LED_ON LOW
 #define LED_OFF HIGH
-#define LED_DELAY 1000
+#define LED_DELAY 500
 #define SERIAL_SPEED 115200
 
 // Function prototypes
